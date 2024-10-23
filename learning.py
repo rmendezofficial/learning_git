@@ -1,0 +1,2 @@
+def New():
+    print('New')
